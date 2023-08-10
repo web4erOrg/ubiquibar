@@ -1,6 +1,6 @@
 name: UbiquiShirt Order Request Wizard
 description: Order a UbiquiShirt using the DevPool Task OS
-title: UbiquiShirt Order Request Wizard
+title: UbiquiShirt Order Request
 body:
   - type: dropdown
     id: size

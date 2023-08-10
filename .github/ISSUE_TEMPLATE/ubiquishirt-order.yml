@@ -32,13 +32,14 @@ body:
     attributes:
       label: Order remarks
       description: Do you have any extra remarks to add?
- - type: markdown
-     attributes:
-       value: |
+  - type: markdown
+    attributes:
+      value: |
         Set a TIME and PRIORITY label. 
             1. Look on the right side of the page (on the GitHub desktop web app client) under "Assignees" and above "Projects".
             2. Press the gear icon and search for "Time: " and select a "Time" label.
             3. Search for "Priority: " and select a "Priority" label.
+
       # render: shell
   # - type: checkboxes
   #   id: terms

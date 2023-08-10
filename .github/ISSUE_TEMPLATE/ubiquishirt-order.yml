@@ -23,11 +23,6 @@ body:
         - White
     validations:
       required: true
-  - type: textarea
-    id: remarks
-    attributes:
-      label: Order remarks
-      description: Do you have any extra remarks to add?
   - type: markdown
     attributes:
       value: |
@@ -37,3 +32,8 @@ body:
         1. Look on the right side of the page for "Labels" (under "Assignees" and above "Projects".)
         2. Press the gear icon and search for `Time: ` and select a `Time` label.
         3. Search for `Priority: ` and select a `Priority` label.
+  - type: textarea
+    id: remarks
+    attributes:
+      label: Order remarks
+      description: Do you have any extra remarks to add?

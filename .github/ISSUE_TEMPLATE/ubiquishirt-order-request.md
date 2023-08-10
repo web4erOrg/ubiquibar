@@ -1,5 +1,5 @@
 ---
-name: '"Decentralize Everything" UbiquiShirt Order Request'
+name: 'UbiquiShirt Order Request'
 about: Order a UbiquiShirt using the DevPool Task OS
 title: UbiquiShirt Order Request
 labels: ''

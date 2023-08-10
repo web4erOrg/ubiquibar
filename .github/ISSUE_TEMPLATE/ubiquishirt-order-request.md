@@ -7,8 +7,10 @@ assignees: ''
 
 ---
 
+I would like a [size] [color] shirt.
+
 <!-- 
-Specify the following outside of this comment: 
-- Shirt color [ black | white ] 
-- Size [ small | medium ]
+Please specify your order details:
+    1. color options: [ black | white ] 
+    2. Size options: [ small | medium | large ] 
 -->

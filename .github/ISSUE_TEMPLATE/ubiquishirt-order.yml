@@ -49,8 +49,10 @@ body:
       options:
         - Black
         - White
+    validations:
+      required: true
   - type: textarea
-    id: logs
+    id: remarks
     attributes:
       label: Order remarks
       description: Do you have any extra remarks to add?

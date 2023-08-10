@@ -1,10 +1,6 @@
 name: UbiquiShirt Order Request Wizard
 description: Order a UbiquiShirt using the DevPool Task OS
 title: UbiquiShirt Order Request Wizard
-# labels: ["bug", "triage"]
-# projects: ["octo-org/1", "octo-org/44"]
-# assignees:
-#   - octocat
 body:
   - type: dropdown
     id: size
@@ -39,13 +35,3 @@ body:
             1. Look on the right side of the page (on the GitHub desktop web app client) under "Assignees" and above "Projects".
             2. Press the gear icon and search for "Time: " and select a "Time" label.
             3. Search for "Priority: " and select a "Priority" label.
-
-      # render: shell
-  # - type: checkboxes
-  #   id: terms
-  #   attributes:
-  #     label: Code of Conduct
-  #     description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
-  #     options:
-  #       - label: I agree to follow this project's Code of Conduct
-  #         required: true

@@ -30,8 +30,8 @@ body:
         
         ### Set a TIME and PRIORITY label on this task. 
         1. Look on the right side of the page for "Labels" (under "Assignees" and above "Projects".) <img src="https://github.com/ubiquity/ubiquibar/assets/4975670/7fe44c98-5286-409f-be0d-c98b358e4d17" alt="UbiquiShirt Order Request Wizard" width="200" />
-        2. Press the gear icon and search for `Time: ` and select a `Time` label. <img src="https://github.com/ubiquity/ubiquibar/assets/4975670/df8b952d-8367-49e0-8b2e-594778f349bc" alt="UbiquiShirt Order Request Wizard (1)" style="max-width:200px;" />
-        3. Search for `Priority: ` and select a `Priority` label. <img src="https://github.com/ubiquity/ubiquibar/assets/4975670/c1591952-c7a6-4c7f-9aef-d6a01ec11cef" alt="UbiquiShirt Order Request Wizard (2)" style="max-width:200px;" />
+        2. Press the gear icon and search for `Time: ` and select a `Time` label. <img src="https://github.com/ubiquity/ubiquibar/assets/4975670/df8b952d-8367-49e0-8b2e-594778f349bc" alt="UbiquiShirt Order Request Wizard (1)" width="200" />
+        3. Search for `Priority: ` and select a `Priority` label. <img src="https://github.com/ubiquity/ubiquibar/assets/4975670/c1591952-c7a6-4c7f-9aef-d6a01ec11cef" alt="UbiquiShirt Order Request Wizard (2)" width="200" />
 
   - type: textarea
     id: remarks

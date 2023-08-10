@@ -35,11 +35,11 @@ body:
         
         2. Press the gear icon and search for `Time: ` and select a `Time` label. 
           
-          <img align="right" src="https://github.com/ubiquity/ubiquibar/assets/4975670/df8b952d-8367-49e0-8b2e-594778f349bc" alt="UbiquiShirt Order Request Wizard (1)" width="200" />
+          <img align="right" src="https://github.com/ubiquity/ubiquibar/assets/4975670/c1591952-c7a6-4c7f-9aef-d6a01ec11cef" alt="UbiquiShirt Order Request Wizard (2)" width="200" />
         
         3. Search for `Priority: ` and select a `Priority` label. 
           
-          <img align="right" src="https://github.com/ubiquity/ubiquibar/assets/4975670/c1591952-c7a6-4c7f-9aef-d6a01ec11cef" alt="UbiquiShirt Order Request Wizard (2)" width="200" />
+          <img align="right" src="https://github.com/ubiquity/ubiquibar/assets/4975670/df8b952d-8367-49e0-8b2e-594778f349bc" alt="UbiquiShirt Order Request Wizard (1)" width="200" />
 
   - type: textarea
     id: remarks

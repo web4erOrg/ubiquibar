@@ -38,7 +38,7 @@ body:
         - Small
         - Medium
         - Large
-      default: Small
+      default: 0
     validations:
       required: true
   - type: dropdown

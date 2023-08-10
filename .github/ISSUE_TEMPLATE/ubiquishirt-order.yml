@@ -1,6 +1,6 @@
-name: UbiquiShirt Order Request
+name: UbiquiShirt Order Request Wizard
 description: Order a UbiquiShirt using the DevPool Task OS
-title: UbiquiShirt Order Request
+title: UbiquiShirt Order Request Wizard
 # labels: ["bug", "triage"]
 # projects: ["octo-org/1", "octo-org/44"]
 # assignees:

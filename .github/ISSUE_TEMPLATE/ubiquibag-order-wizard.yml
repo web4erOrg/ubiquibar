@@ -1,18 +1,7 @@
-name: UbiquiTee Order Request
-description: Order a UbiquiTee using the DevPool Task OS
-title: UbiquiTee Order Request
+name: UbiquiBag Order Request
+description: Order a UbiquiBag using the DevPool Task OS
+title: UbiquiBag Order Request
 body:
-  - type: dropdown
-    id: size
-    attributes:
-      label: Size
-      description: What size would you like?
-      options:
-        - Small
-        - Medium
-        - Large
-    validations:
-      required: true
   - type: dropdown
     id: color
     attributes:

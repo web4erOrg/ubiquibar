@@ -1,7 +1,7 @@
 name: UbiquiTee Order Request
 description: Order a UbiquiTee using the DevPool Task OS
 title: UbiquiTee Order Request
-labels: ["Priority: 4 (Urgent)", "Time: 5 Minutes"]
+labels: ["Priority: 4 (Urgent)", "Time: <5 Minutes"]
 body:
   - type: dropdown
     id: size

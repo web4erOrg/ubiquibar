@@ -1,5 +1,5 @@
 time-labels:
-  - name: "Time: <1 Minutes"
+  - name: "Time: <1 Minute"
     weight: 0.0021
     value: 60
   - name: "Time: <5 Minutes"

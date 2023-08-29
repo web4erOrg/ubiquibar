@@ -1,0 +1,4 @@
+time-labels:
+  - name: "Time: <5 Minutes"
+    weight: 0.0105
+    value: 300

@@ -6,8 +6,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        ![black-shirt-graphic-cropped](https://github.com/ubiquity/ubiquibar/assets/4975670/e3bbed26-5f14-4f0d-a4fe-a40431641a5a)
         ![white-shirt-graphic-cropped](https://github.com/ubiquity/ubiquibar/assets/4975670/8aab6932-23cd-490e-87ad-8df242b54221)
+        ![black-shirt-graphic-cropped](https://github.com/ubiquity/ubiquibar/assets/4975670/e3bbed26-5f14-4f0d-a4fe-a40431641a5a)
 
   - type: dropdown
     id: size

@@ -1,7 +1,7 @@
 name: 🎒 UbiquiBag Order Request
 description: Order a UbiquiBag using the DevPool Task OS
 title: 🎒 UbiquiBag Order Request
-labels: ["Priority: 4 (Urgent)", "Time: <5 Minutes"]
+labels: "Priority: 4 (Urgent)", "Time: <5 Minutes"
 body:
   - type: markdown
     attributes:
